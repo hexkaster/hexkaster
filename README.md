@@ -15,6 +15,7 @@
 ## Languages  
 - 🇬🇧 **English** (EN)  
 - 🇧🇷 **Portuguese** (PT-BR)
+- 🇪🇸 **Spanish** (ES)
 
 ---
 
