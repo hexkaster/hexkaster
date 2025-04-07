@@ -20,5 +20,6 @@
 ---
 
 🔗 **Connect with me**:  
+- Blog: [hexkaster.com](https://hexkaster.com/)
 - Twitter: [@hexkaster](https://twitter.com/hexkaster)  
 - LinkedIn: [hex-kaster](https://www.linkedin.com/in/hex-kaster)  
