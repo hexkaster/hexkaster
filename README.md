@@ -2,23 +2,6 @@
 
 **Occupation**: Penetration Tester | Security Researcher  
 
-## Fields of Interest  
-- **Malware Development**: Crafting and analyzing malicious software.  
-- **Network Penetration Testing**: Identifying and exploiting vulnerabilities in networks.  
-- **Red Team Operations**: Simulating adversary tactics to improve security defenses.  
-
-## Certifications  
-- **OSCP** - Offensive Security Certified Professional  
-- **OSWP** - Offensive Security Wireless Professional  
-- **Sec+** - CompTIA Security+  
-
-## Languages  
-- 🇬🇧 **English** (EN)  
-- 🇧🇷 **Portuguese** (PT-BR)
-- 🇪🇸 **Spanish** (ES)
-
----
-
 🔗 **Connect with me**:  
 - Blog: [hexkaster.com](https://hexkaster.com/)
 - Twitter: [@hexkaster](https://twitter.com/hexkaster)  
