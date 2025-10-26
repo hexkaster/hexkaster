@@ -1,4 +1,4 @@
-# About Me - Gabriel Menezes
+# About Me
 
 **Occupation**: Penetration Tester | Security Researcher  
 
